@@ -77,10 +77,3 @@ The experiment identified **mild framing bias** but **no demographic or factual 
 | `REPORT.md` | Final summary report |
 
 ---
-
-## Next Step
-- Commit all project files to your **GitHub repository** titled `Task_08_Bias_Detection`.  
-- Double-check all notebooks run without error.  
-- Submit your repo link to **jrstrome@syr.edu** by **Nov 15 2025**.  
-- Complete your **OPT Progress Report** on Qualtrics:  
-  👉 [https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8](https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8)
