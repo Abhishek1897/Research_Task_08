@@ -1,0 +1,23 @@
+{
+  "fabrication_rate_by_hypothesis": {
+    "": 0.0,
+    "H1": 0.0,
+    "H2": 0.0,
+    "H3": 0.0,
+    "H4": 0.0
+  },
+  "contradictions_by_hypothesis": {
+    "": 0,
+    "H1": 0,
+    "H2": 0,
+    "H3": 0,
+    "H4": 0
+  },
+  "total_responses_by_hypothesis": {
+    "": 1,
+    "H1": 4,
+    "H2": 1,
+    "H3": 2,
+    "H4": 2
+  }
+}

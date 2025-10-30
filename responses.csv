@@ -1,0 +1,11 @@
+timestamp,provider,model,model_version,hypothesis_id,prompt_file,temperature,seed,response_text,tokens
+2025-10-30T20:29:44.694898,,,,,,,,,
+2025-10-30T20:30:42.063114,Open AI,GPT 3.5,Oct 2025,H1,H1_FRAMING ,0.2,,,
+2025-10-30T20:41:29.167576,Open AI,GPT 3.5,Oct 2025,H1,"H1_framing_negative.txt, H1_framing_positive.txt",0.2,,Test framing bias,
+2025-10-30T20:41:50.623590,Open AI,GPT 3.5,Oct 2025,H2,"H2_demographic_neutral.txt, H2_demographic_experience.txt",0.2,,Test demographic bias,
+2025-10-30T20:42:10.327742,Open AI,GPT 3.5,Oct 2025,H3,"H3_confirmation_neutral.txt, H3_confirmation_primed.txt",0.2,,Test confirmation bias,
+2025-10-30T20:42:30.471288,Open AI,GPT 3.5,Oct 2025,H4,H4_selection_stats.txt,0.2,,Test selection bias,
+2025-10-30T20:44:31.102766,Open AI,GPT 3.5,Oct 2025,H1,H1_framing_negative.txt,0.2,,"“Player A underperformed, struggling to maintain…”",
+2025-10-30T20:44:47.733320,Open AI,GPT 3.5,Oct 2025,H1,H1_framing_positive.txt,0.2,,"“Player A showed potential for growth, with improving…”",
+2025-10-30T20:45:21.054282,Open AI,GPT 3.5,Oct 2025,H3,H3_confirmation_primed.txt,0.2,,“This confirms the hypothesis that offensive training improved…”,
+2025-10-30T20:45:39.046557,Open AI,GPT 3.5,Oct 2025,H4,H4_selection_stats.txt,0.2,,“Data indicates more focus on early-period scoring…”,

@@ -1,0 +1,40 @@
+{
+  "H1_framing_negative_vs_H1_framing_positive": {
+    "chi2": 0.0,
+    "dof": -1,
+    "groups": [
+      "H1_framing_negative",
+      "H1_framing_positive"
+    ],
+    "categories": [],
+    "table": [
+      [],
+      []
+    ],
+    "row_sums": [
+      0,
+      0
+    ],
+    "col_sums": [],
+    "total": 0
+  },
+  "H3_confirmation_neutral_vs_H3_confirmation_primed": {
+    "chi2": 0.0,
+    "dof": -1,
+    "groups": [
+      "H3_confirmation_neutral",
+      "H3_confirmation_primed"
+    ],
+    "categories": [],
+    "table": [
+      [],
+      []
+    ],
+    "row_sums": [
+      0,
+      0
+    ],
+    "col_sums": [],
+    "total": 0
+  }
+}

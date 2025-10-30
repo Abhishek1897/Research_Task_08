@@ -1,0 +1,20 @@
+{
+  "n_rows": 10,
+  "sentiment_mean_by_hypothesis": {
+    "": 0.0,
+    "H1": 0.5,
+    "H2": 0.0,
+    "H3": 0.0,
+    "H4": 0.0
+  },
+  "mentions_by_hypothesis": {
+    "H1": {
+      "Player A": 2
+    }
+  },
+  "recommendation_buckets_by_hypothesis": {
+    "H1": {
+      "individual": 2
+    }
+  }
+}
