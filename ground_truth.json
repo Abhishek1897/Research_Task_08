@@ -1,0 +1,14 @@
+{
+  "timestamp_generated": "2025-10-30T19:59:25.245801",
+  "notes": "Computed automatically from uploaded CSVs where possible. Falls back to defaults if columns are missing.",
+  "games_played": 19,
+  "period_goals": {
+    "P1": 74,
+    "P4": 47
+  },
+  "offensive_efficiency_leader": {
+    "player": "Emma Ward",
+    "efficiency": 35.0
+  },
+  "any_neutral_site_games": null
+}
