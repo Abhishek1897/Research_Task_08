@@ -168,6 +168,4 @@ No hallucinations were observed.
 
 ---
 
-## 🚀 How to Reproduce the Project
 
-### 1. Install dependencies
